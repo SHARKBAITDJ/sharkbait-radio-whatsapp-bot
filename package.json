@@ -1,0 +1,16 @@
+{
+  "name": "sharkbait-radio-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Sharkbait Radio WhatsApp keyword auto-responder using whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

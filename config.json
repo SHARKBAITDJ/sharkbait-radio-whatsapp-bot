@@ -1,0 +1,10 @@
+{
+  "greeting": "Hey there! 🦊 Welcome to Sharkbait Radio - SharkbaitRadioStation.FM. Reply with MENU to see what I can help with!",
+  "away": "Thanks for reaching out to Sharkbait Radio! We're off air right now but will get back to you soon. Meanwhile try REQUEST or SCHEDULE.",
+  "keywords": [
+    { "keyword": "menu", "reply": "🦊 Sharkbait Radio Menu:\n- REQUEST: request a song\n- SCHEDULE: see our show schedule\n- SHARKBAIT: learn about us\nReply with a keyword any time!", "active": true },
+    { "keyword": "request", "reply": "🎶 Want to hear a song? Just reply with the song name and artist and we will try to queue it up on air!", "active": true },
+    { "keyword": "schedule", "reply": "📅 Sharkbait Radio Schedule:\nMon-Fri 6am-10am: Morning Bite\nSat 12pm-3pm: Weekend Waves\nCheck SharkbaitRadioStation.FM for the full lineup!", "active": true },
+    { "keyword": "sharkbait", "reply": "🦈 Sharkbait Radio is your home for indie hits, local talk and late-night chill. Tune in at SharkbaitRadioStation.FM!", "active": true }
+  ]
+}
